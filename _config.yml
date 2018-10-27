@@ -1,5 +1,5 @@
 # Site settings
-title: tj6666666
+title: tj666666
 SEOTitle: TJ的博客 | TJ's Blog
 header-img: img/home-bg-universe.jpg
 email: 13391399286@163.com
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     tj6666666
-zhihu_username:     tj6666666
-github_username:    tj6666666
-twitter_username:   tj6666666
-#facebook_username:  tj6666666
+weibo_username:     tj666666
+zhihu_username:     tj666666
+github_username:    tj666666
+twitter_username:   tj666666
+#facebook_username:  tj666666
 #linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: tj6666666
+disqus_username: tj666666
 
 # Netease settings
 netease_comment: false
@@ -72,7 +72,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: tj6666666.me
+ga_domain: tj666666.me
 
 
 
@@ -90,7 +90,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 
 # Progressive Web Apps
-chrome-tab-theme-color: "#000000"
+chrome-tab-theme-color: "#e8a92c"
 service-worker: true
 
 
